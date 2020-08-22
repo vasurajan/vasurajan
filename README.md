@@ -1,4 +1,4 @@
-### I'm Vasu Rajan 👋
+### Hi there, I'm Vasu Rajan 👋
 
 I'm an ex-Mechanical Engineer and a Web-Developer in Making!
 
