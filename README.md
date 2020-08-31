@@ -8,7 +8,7 @@ I'm an ex-Mechanical Engineer and a Web-Developer in Making!
 
 👯 I’m looking to collaborate with other content creators
 
-🥅 2020 Goals: Get strong with my fundamentals in web development and Contribute to Open Source projects
+🥅 2020 Goals: Get strong with my fundamentals in MERN Stack  and Contribute to Open Source projects
 
 ⚡ Fun fact: I love to sing and also love playing video-games
 
