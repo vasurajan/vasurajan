@@ -11,7 +11,7 @@ I'm an ex-Mechanical Engineer and a Web-Developer in Making!
 🥅 2020 Goals: Get strong with my fundamentals in MERN Stack  and Contribute to Open Source projects
 
 ⚡ Fun fact: I love to sing and also love playing video-games
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/vasurajan/vasurajan/master/gifs/coder.gif" />
 
 ### Languages and Tools:
 
