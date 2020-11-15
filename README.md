@@ -10,6 +10,3 @@ I'm an ex-Mechanical Engineer and a Web-Developer in Making!
 
 ⚡ Fun fact: I love to sing and also love playing video-games
 
-<a href="https://github.com/vasurajan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasurajan&show_icons=true&theme=light&line_height=27" alt="Vasu github stats"/>
-</a>
