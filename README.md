@@ -1,4 +1,4 @@
-![site (1)](https://user-images.githubusercontent.com/63305945/101702147-53cf2a80-3aa6-11eb-8cc1-38856aedda58.png)
+![LinkedIn](https://user-images.githubusercontent.com/63305945/101705548-26d24600-3aad-11eb-96ba-a53161c82915.png)
 
 # Vasu Rajan
 I'm Vasu, a Front-End developer from India - I enjoy building React and Redux web applications from scratch to production. 
