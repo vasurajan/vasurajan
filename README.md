@@ -9,8 +9,6 @@ You can checkout my [LinkedIn Profile](https://www.linkedin.com/in/vasu-rajan-29
 🔥 HTML, CSS, JavaScript
 🔰 Nodejs, Jest, Enzyme, Photoshop 
 
-## Projects Examples
-### ecommerce
-![ecommerce](https://user-images.githubusercontent.com/63305945/101703907-947c7300-3aa9-11eb-9fa3-c718dff13dcb.gif)
-### It Logger
-![it-logger](https://user-images.githubusercontent.com/63305945/101702960-f0de9300-3aa7-11eb-8b3f-bf1530a37157.gif)
+## Work Examples
+![work examples github](https://user-images.githubusercontent.com/63305945/101705285-9eec3c00-3aac-11eb-985e-f5b6eac03799.png)
+
