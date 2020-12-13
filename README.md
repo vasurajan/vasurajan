@@ -2,9 +2,7 @@
 
 # Vasu Rajan
 I'm a Front-End developer from India - I enjoy building React and Redux web applications from scratch to production.
-You can checkout my:
-[LinkedIn Profile](https://www.linkedin.com/in/vasu-rajan-295b5a12b) .
-[My Medium Blog](https://vasurajan.medium.com) .
+You can checkout my [LinkedIn Profile](https://www.linkedin.com/in/vasu-rajan-295b5a12b), [My Medium Blog](https://vasurajan.medium.com) 
 
 ## Skills
 ⚡ React, Redux, Gatsby, Nextjs.
