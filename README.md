@@ -10,5 +10,5 @@ You can checkout my [LinkedIn Profile](https://www.linkedin.com/in/vasu-rajan-29
 🔰 Nodejs, Jest, Enzyme, Photoshop
 
 ## Work Examples
-(https://github.com/vasurajan/vasurajan/blob/master/ezgif.com-gif-maker.gif?raw=true)
+![Untitled design](https://github.com/vasurajan/vasurajan/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
